@@ -62,7 +62,7 @@ python -m http.server 8000
 ```
 control-overlays-selector/
 ├── index.html                    # Main web application (vanilla JS)
-├── CLAUDE.md                     # AI assistant guidance
+├── AGENTS.md                     # AI assistant guidance
 ├── README.md                     # This file
 │
 ├── nist_catalog/                 # NIST SP 800-53 source data
